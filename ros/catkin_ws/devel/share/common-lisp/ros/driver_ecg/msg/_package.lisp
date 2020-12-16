@@ -1,0 +1,15 @@
+(cl:defpackage driver_ecg-msg
+  (:use )
+  (:export
+   "<AVERAGEHEARTRATE>"
+   "AVERAGEHEARTRATE"
+   "<CURRENT>"
+   "CURRENT"
+   "<DEBUG>"
+   "DEBUG"
+   "<ELECTROCARDIOGRAM>"
+   "ELECTROCARDIOGRAM"
+   "<INSTANTANEOUSHEARTRATE>"
+   "INSTANTANEOUSHEARTRATE"
+  ))
+

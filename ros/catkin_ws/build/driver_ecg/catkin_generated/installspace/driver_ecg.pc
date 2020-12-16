@@ -1,0 +1,8 @@
+prefix=/home/garry/catkin_ws/install
+
+Name: driver_ecg
+Description: Description of driver_ecg
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

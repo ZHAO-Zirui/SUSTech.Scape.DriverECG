@@ -1,0 +1,2 @@
+driver_ecg
+-DCATKIN_DEVEL_PREFIX=/home/garry/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/garry/catkin_ws/install -G Unix Makefiles
